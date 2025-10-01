@@ -7,19 +7,19 @@ To identify customer behavior patterns, including peak booking hours and preferr
 To simplify complex datasets into visual insights that support data-driven decision-making.
 
 ## Dataset Used
-- <a href="https://github.com/KritikTandon/Ola_Dashboard/blob/main/tourism.xlsx">Dataset</a>
+- <a href="https://github.com/KritikTandon/Ola_Dashboard/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
 
 ## Question (KPIs)
--	How many domestic and international tourists visited India this year?
--	Which state or city received the highest number of tourists?
--	What is the year-on-year growth rate of tourist arrivals?
--	How much revenue was generated from tourism, and how much came from foreign exchange earnings?
--	What is the seasonal trend in tourist visits (peak and off-peak months)?
--	Which countries contribute the most to foreign tourist arrivals in India?
--	What is the average duration of stay for tourists?
--	How do domestic and international tourism numbers compare across different states?
--	What is the contribution of tourism to India’s GDP?
--	Which tourist attractions are the most visited?
+-	 Ride Volume Over Time
+-  Booking Status Breakdown
+-  Top 5 Vehicle Types by Ride Distance
+-  Average Customer Ratings by Vehicle Type
+-  cancelled Rides Reasons
+-  Revenue by Payment Method
+-  Top 5 Customers by Total Booking Value
+-  Ride Distance Distribution Per Day
+-  Driver Ratings Distribution
+-  Customer vs. Driver Ratings
 
 ## Dashboard Interaction
 -	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-1.png">Page-1</a>
