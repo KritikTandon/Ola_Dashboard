@@ -22,10 +22,8 @@ To simplify complex datasets into visual insights that support data-driven decis
 -  Customer vs. Driver Ratings
 
 ## Dashboard Interaction
--	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-1.png">Page-1</a>
--	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-2.png">Page-2</a>
--	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-3.png">Page-3</a>
--	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-4.png">Page-4</a>
+-	<a href= "https://github.com/KritikTandon/Ola_Dashboard/blob/main/ola-page-1.png">Page-1</a>
+-	<a href= "https://github.com/KritikTandon/Ola_Dashboard/blob/main/ola-page-2.png">Page-2</a>
 
 ## Process
 -	Data Import – Load the tourism dataset (single table) into Power BI.
