@@ -12,33 +12,34 @@ To simplify complex datasets into visual insights that support data-driven decis
 ## Question (KPIs)
 -	 Ride Volume Over Time
 -  Booking Status Breakdown
--  Top 5 Vehicle Types by Ride Distance
--  Average Customer Ratings by Vehicle Type
--  cancelled Rides Reasons
 -  Revenue by Payment Method
--  Top 5 Customers by Total Booking Value
 -  Ride Distance Distribution Per Day
--  Driver Ratings Distribution
--  Customer vs. Driver Ratings
+-  cancelled Rides Reasons (Customer)
+-  cancelled Rides Reasons (Driver)
+-  Customer Ratings
+-  Driver Ratings
 
 ## Dashboard Interaction
 -	<a href= "https://github.com/KritikTandon/Ola_Dashboard/blob/main/ola-page-1.png">Page-1</a>
 -	<a href= "https://github.com/KritikTandon/Ola_Dashboard/blob/main/ola-page-2.png">Page-2</a>
 
 ## Process
--	Data Import – Load the tourism dataset (single table) into Power BI.
--	Data Cleaning – Check for missing values, duplicates, and ensure data consistency.
--	Data Transformation – Create calculated columns and measures (e.g., total tourists, growth rate, revenue).
--	Dashboard Creation – Design visuals like KPIs, maps, and charts using the cleaned table.
--	Insight Generation – Analyze patterns such as top states, seasonal trends, and domestic vs. international arrivals.
+-	Data Collection: Gathered a dataset of 100,000+ OLA ride records containing details of bookings, revenue, ride status, and customer information.
+- Data Cleaning & Preparation: Removed duplicates, handled missing values, and structured the dataset for accurate analysis.
+- Data Analysis: Identified key metrics such as total bookings, revenue, completed/canceled rides, peak hours, and ride preferences.
+- Dashboard Design: Created an interactive dashboard with KPIs, charts, and filters to represent insights in a clear format.
+- Visualization: Used dynamic visuals like bar charts, line charts, and pie charts to highlight trends and patterns.
+- Insights Generation: Interpreted the visualized data to understand customer behavior, demand fluctuations, and revenue distribution.
+- Final Output: Delivered a clean, user-friendly, and interactive dashboard to support data-driven decision-making.
 
 ## Project Insights
-1.	Tourism in India shows significant variation across states, with a few states attracting the majority of visitors.
-2.	Domestic tourism forms a larger share compared to international arrivals, indicating strong local travel demand.
-3.	Seasonal patterns highlight peak tourist months, useful for planning resources and promotions.
-4.	Revenue from international tourists contributes greatly to foreign exchange earnings.
-5.	Growth trends suggest increasing opportunities for sustainable tourism and infrastructure development.
-6.	State-wise analysis reveals potential regions that need more focus on promotion and facilities.
+1. A total of 100,000+ rides were analyzed to study booking and revenue patterns.
+2. Completed rides formed the majority, while a smaller portion was canceled or pending, highlighting operational efficiency.
+3. Peak booking hours were observed during morning and evening time slots, showing high customer demand in travel hours.
+4. Mini and Sedan ride types were the most preferred, while luxury rides had lower usage but higher revenue contribution.
+5. Revenue distribution showed that a significant share comes from completed rides, with canceled rides reducing overall performance.
+6. Customer behavior analysis revealed trends in ride preferences, time patterns, and demand fluctuations across different periods.
+7. The dashboard highlights areas for improvement, such as reducing cancellations and optimizing availability during peak hours.
 
 ## Final Conclusion
-The Tourism India Dashboard successfully provides a clear and interactive view of India’s tourism landscape. By analyzing a single dataset, it highlights key insights such as top-performing states, seasonal visitor patterns, and the balance between domestic and international tourism. The dashboard helps identify growth opportunities, supports data-driven decision-making, and emphasizes the role of tourism in India’s economic development. Overall, this project demonstrates how visual analytics can simplify complex data and guide future strategies for sustainable tourism growth.
+The OLA Dashboard successfully transforms a large dataset of over 100,000 rides into meaningful insights through interactive visualizations. It provides a clear view of key metrics such as bookings, revenue, ride status, and customer behavior patterns. The dashboard helps identify trends, peak hours, and popular ride types, supporting data-driven decision-making. Overall, it serves as a powerful tool for analyzing operational performance, improving service efficiency, and enhancing customer satisfaction in OLA’s ride-sharing operations.
