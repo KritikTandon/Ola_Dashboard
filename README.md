@@ -5,6 +5,7 @@ To analyze a large dataset of 100,000+ records for accurate and reliable insight
 To track key metrics such as bookings, revenue, completed and canceled rides, and ride preferences.
 To identify customer behavior patterns, including peak booking hours and preferred ride types.
 To simplify complex datasets into visual insights that support data-driven decision-making.
+Wrote SQL queries to extract and join ride, customer, and payment data for analysis.
 
 ## Dataset Used
 - <a href="https://github.com/KritikTandon/Ola_Dashboard/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
